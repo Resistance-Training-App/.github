@@ -1,12 +1,15 @@
-## Hi there 👋
+# Resistance Training App with Automatic Exercise Analysis
 
-<!--
+## Exercise Data Processing
 
-**Here are some ideas to get you started:**
+- Responsible for developing the exercise classification and form analysis models.
+- This repository can be used to test a model's performance.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Form Identifer (Mac only)
+
+- The Xcode project for the development app used to test models and other exercise analyis metrics such as repeition counting.
+- Exercise analysis features can then be tested in isolation and not interfere with the development of the main app.
+
+## Workout Planner (Mac only)
+
+- The Xcode project for the project's resistance training workout app.
