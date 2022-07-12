@@ -1,6 +1,6 @@
 # LEAN: Real-Time Analysis of Resistance Training using Wearable Computing
 
-A **L**ightweight **E**xercise tracker for **A**thletes and **N**ovices
+A ***L***ightweight ***E***xercise tracker for ***A***thletes and ***N***ovices
 
 ## Exercise Data Processing
 
