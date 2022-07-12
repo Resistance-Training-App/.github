@@ -1,5 +1,7 @@
 # LEAN: Real-Time Analysis of Resistance Training using Wearable Computing
 
+A Lightweight Exercise tracker for Athletes and Novices
+
 ## Exercise Data Processing
 
 - Responsible for developing the exercise classification and form analysis models.
