@@ -1,15 +1,15 @@
-# Resistance Training App with Automatic Exercise Analysis
+# LEAN: Real-Time Analysis of Resistance Training using Wearable Computing
 
 ## Exercise Data Processing
 
 - Responsible for developing the exercise classification and form analysis models.
 - This repository can be used to test a model's performance.
 
-## Form Identifer (Mac only)
+## Testing of exercise analysis features (Mac only)
 
 - The Xcode project for the development app used to test models and other exercise analyis metrics such as repeition counting.
 - Exercise analysis features can then be tested in isolation and not interfere with the development of the main app.
 
-## Workout Planner (Mac only)
+## iPhone and Apple Watch Apps (Mac only)
 
-- The Xcode project for the project's resistance training workout app.
+- The Xcode project for main app, LEAN.
